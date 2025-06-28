@@ -7,9 +7,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [OBJECTIVE 104.5](https://www.lpi.org/our-certifications/exam-101-102-objectives/#104.5_Manage_file_permissions_and_ownership)
 
-[OBJ.104.5 NOTES]()
+[OBJ.104.5 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EdsMbFqWo6pEsHiAnk3O8zoBsagjVHEmUxLQL_d9BrwHLA?e=0dBjQo)
 
-[OBJ.104.5 LAB]()
+[OBJ.104.5 LAB](https://1drv.ms/w/c/354f1c8d534fbced/ESZfNUcJ31tEmLcpycr2BzcB-UPnEyrIYev3Eeoxk-QUGg?e=iuj16M)
 
 ---
 
