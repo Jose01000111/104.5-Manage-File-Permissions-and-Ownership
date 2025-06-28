@@ -145,6 +145,9 @@ ls -l shared_doc.txt
 
 ## 📘 What I learned
 🔸 I learned how to manage file and directory permissions using both numeric and symbolic modes.
+
 🔸 I now understand how special permission bits affect file behavior and security.
+
 🔸 I practiced using umask to control default permissions for newly created files.
+
 🔸 I also saw how group ownership and group permissions can streamline team-based access to shared resources.
